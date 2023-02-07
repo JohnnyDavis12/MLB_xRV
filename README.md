@@ -1,5 +1,19 @@
 # MLB_xRV
-Scraping 2022 Pitch Level Data + Adding Run Value to Pitch Level Data + Adding RV / 100 and seperating Dataframes by Pitch + Calculating RV per 100 for every pitch + Using Random Forest Regressor to Find xRV/100 + Using that Data to Find Stuff+ + Adding Baseball Reference Data to Dataframe + Creating Data Visuals.
+Scraping 2022 Pitch Level Data 
+
+Adding Run Value to Pitch Level Data 
+
+Adding RV / 100 and seperating Dataframes by Pitch
+
+Calculating RV per 100 for every pitch 
+
+Using Random Forest Regressor to Find xRV/100 
+
+Using that Data to Find Stuff+ 
+
+Adding Baseball Reference Data to Dataframe 
+
+Creating Data Visuals.
 
 If interested in working through the whole model, go in this order:
 
